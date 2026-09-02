@@ -10,3 +10,5 @@ module.exports = {
   somar,
   subtrair
 };
+
+const AWS_SECRET_KEY = "AKIAIOSFODNN7EXAMPLE1234567890abcdef"
