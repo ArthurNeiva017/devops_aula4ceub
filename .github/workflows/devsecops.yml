@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
 
-#jobs:
+jobs:
   # ----------------------------------------------------
   # ETAPA 1: CI (Qualidade de Código e Testes)
   # ----------------------------------------------------
